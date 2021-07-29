@@ -5,7 +5,11 @@ Sudoku Puzzle posed as a CSP [(Constraint Satisfaction Problem)](https://en.wiki
 ## Authors
 
 - [@Sawyer Paccione](https://github.com/paccionesawyer) -  Tufts University COMP 131, Summer 2020
-  
+
+## Demo 
+
+![Demo](https://github.com/paccionesawyer/sodokuSolver-CSP/blob/main/sudoku-solver-demo.gif)
+
 ## Run Locally
 
 Clone the project
