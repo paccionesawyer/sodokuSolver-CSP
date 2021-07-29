@@ -37,7 +37,7 @@ def parse_arguments():
     args = vars(arg_parser.parse_args())
 
     if(args['board'] == None):
-        return 'easy_puzzle.txt'
+        return './SudokuPuzzles/evil_puzzle.txt'
     else:
         return args['board']
 
